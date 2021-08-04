@@ -19,7 +19,7 @@
     "typescript": "^3.4.5"
   },
   "devDependencies": {
-    "tar": "^4.4.8"
+    "tar": "^4.4.15"
   },
   "scripts": {
     "start": "react-scripts start",
